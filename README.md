@@ -1,2 +1,2 @@
 # Step-by-Step-to-Data-Science
-Get topic-wise paratice material and code for data Science
+Get topic-wise practice material and code for data Science
