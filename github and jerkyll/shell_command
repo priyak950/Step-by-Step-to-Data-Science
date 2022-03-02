@@ -1,0 +1,9 @@
+mkdir -  makes a directory
+
+ls -  lists all the directories in the current directory. In windows, dir is used instead of ls
+
+cat <filename> - displays the content in the file
+
+cd <directory name> - to navigate to the directory
+
+pwd - present working directory
