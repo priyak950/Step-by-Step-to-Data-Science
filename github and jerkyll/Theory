@@ -1,0 +1,6 @@
+A version control system, such as git, helps you by taking care of the following:
+1. Tracking changes
+2. Ability to revert back to any version
+3. Finding what changes were made, when were they made and by whom
+4. Easy recovery in case of any disaster
+5. Improving the efficiency and agility of team projects 
