@@ -15,3 +15,7 @@ Practice question in Pandas files :
 
 Cheat sheet in Pandas:
 Pandas_Cheat_Sheet
+
+
+Connect Database and Pandas:
+pandas_quick_use
